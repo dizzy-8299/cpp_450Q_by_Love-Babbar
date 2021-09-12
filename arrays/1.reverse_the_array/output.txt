@@ -1,0 +1,5 @@
+Input 6 Elements : 
+Array :
+4 5 7 8 6 2 
+Reversed Array :
+2 6 8 7 5 4 
