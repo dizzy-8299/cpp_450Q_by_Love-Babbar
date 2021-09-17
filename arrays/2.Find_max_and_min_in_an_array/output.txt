@@ -1,0 +1,5 @@
+Enter 6 Elements for Array:
+Array: 
+1 2 3 4 5 6  
+Min element is 1
+Max element is 6

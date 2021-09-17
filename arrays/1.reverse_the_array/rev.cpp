@@ -43,3 +43,5 @@ int main(){
     printArray(array,n);
     return 0;
 }
+
+//Time Complexity : O(n)
